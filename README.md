@@ -19,7 +19,7 @@ For FFT:
 -System.Numerics;
 -System.Windows.Forms.DataVisualization.Charting;
 
-![System](https://github.com/acawhiz/DE10-LITE-Digital-Oscilloscope-with-FFT/assets/27901725/83f0aaba-7ad9-41fe-a612-3daa33d826dd)
+![System](https://github.com/acawhiz/DE10-LITE-Digital-Oscilloscope-with-FFT/blob/main/System.jpg)
 
 Applciation Screenshot:
 
