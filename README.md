@@ -35,5 +35,5 @@ Signal Tap: Data acquisition and upload
 ![signal tap](https://github.com/acawhiz/DE10-LITE-Digital-Oscilloscope-with-FFT/blob/main/signal%20tap.jpg)
 
 Signal Tap: Data acquisition ending
-![signal tap end of frame](https://github.com/acawhiz/DE10-LITE-Digital-Oscilloscope-with-FFT/blob/main/squarewave%20screenshot2.jpg)
+![signal tap end of frame](https://github.com/acawhiz/DE10-LITE-Digital-Oscilloscope-with-FFT/blob/main/signal%20tap%20end%20of%20frame.jpg)
 
