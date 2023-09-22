@@ -24,16 +24,16 @@ For FFT:
 Applciation Screenshot:
 
 ADC acquisitions:
-![App screenshot](https://github.com/acawhiz/DE10-LITE-Digital-Oscilloscope-with-FFT/assets/27901725/1ed7057c-604f-45b2-8ad0-64e3d28bb49f)
-![sawtooth screenshot](https://github.com/acawhiz/DE10-LITE-Digital-Oscilloscope-with-FFT/assets/27901725/e4276e30-04a4-4883-944b-3ab284a6f265)
+![App screenshot](https://github.com/acawhiz/DE10-LITE-Digital-Oscilloscope-with-FFT/blob/main/squarewave%20screenshot2.jpg)
+![sawtooth screenshot](https://github.com/acawhiz/DE10-LITE-Digital-Oscilloscope-with-FFT/blob/main/sawtooth%20screenshot.jpg)
 
 DDS acquisition:
-![App screenshot DDS](https://github.com/acawhiz/DE10-LITE-Digital-Oscilloscope-with-FFT/assets/27901725/80b43654-8fe6-4cca-bd35-77b3b0ae8b86)
+![App screenshot DDS](https://github.com/acawhiz/DE10-LITE-Digital-Oscilloscope-with-FFT/blob/main/App%20screenshot%20DDS.jpg)
 
 
 Signal Tap: Data acquisition and upload
-![signal tap](https://github.com/acawhiz/DE10-LITE-Digital-Oscilloscope-with-FFT/assets/27901725/8b6945a9-32e5-421b-b61e-b09c00eae5c4)
+![signal tap](https://github.com/acawhiz/DE10-LITE-Digital-Oscilloscope-with-FFT/blob/main/signal%20tap.jpg)
 
 Signal Tap: Data acquisition ending
-![signal tap end of frame](https://github.com/acawhiz/DE10-LITE-Digital-Oscilloscope-with-FFT/assets/27901725/a46ab112-76b9-4dae-bb73-ef363d28418b)
+![signal tap end of frame](https://github.com/acawhiz/DE10-LITE-Digital-Oscilloscope-with-FFT/blob/main/squarewave%20screenshot2.jpg)
 
